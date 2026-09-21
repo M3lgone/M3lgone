@@ -2,11 +2,10 @@
 
 ### Full-Stack Developer
 
-I'm a Full-Stack Developer focused on building modern, scalable and maintainable web applications.
+I'm a Full-Stack Developer.
 
 My main focus is **PHP & Laravel** on the backend and **React & Next.js** on the frontend.
 
-I'm currently deepening my knowledge of **software architecture, design patterns, clean code, testing and modern development practices**.
 
 ---
 
@@ -79,124 +78,6 @@ A full-stack RPG battle system built to explore backend architecture, API develo
 
 ---
 
-## 📅 STR Booking System
-
-A booking management platform designed to handle reservations, availability and business logic.
-
-### Stack
-
-`PHP` `Laravel` `MySQL` `JavaScript`
-
-🔗 **[View Repository](#)**
-
----
-
-## 🌐 Isma.dev
-
-My personal portfolio and developer website.
-
-A place to showcase my projects, skills, experience and development journey.
-
-### Stack
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-🌐 **[Visit Website](https://isma.dev)**  
-🔗 **[View Repository](#)**
-
----
-
-# 📚 Currently Learning
-
-I'm currently focused on improving the way I design and build software.
-
-```text
-                    SOFTWARE DEVELOPMENT
-                            │
-            ┌───────────────┼───────────────┐
-            │               │               │
-       ARCHITECTURE       CODE            QUALITY
-            │               │               │
-      ┌─────┼─────┐     Clean Code      Testing
-      │     │     │     SOLID            TDD
-   Patterns APIs Design   Refactoring     CI/CD
-```
-
-## Areas I'm Exploring
-
-- 🏛️ Software Architecture
-- 🧩 Design Patterns
-- 🧼 Clean Code
-- 🔷 SOLID Principles
-- 🔌 REST API Design
-- 🧪 PHPUnit & Pest
-- 🐳 Docker
-- 🗄️ Database Design
-- 🔐 Authentication & Authorization
-- ⚡ React & Next.js
-- 🏗️ Laravel Architecture
-- 🔄 Git & GitHub Workflows
-
----
-
-# 🏗️ Development Philosophy
-
-> **Build it. Understand it. Improve it.**
-
-I believe that the best way to learn software development is by building real projects, understanding the problems behind them and continuously improving the solution.
-
-I'm especially interested in code that is:
-
-- **Readable**
-- **Maintainable**
-- **Testable**
-- **Scalable**
-- **Well structured**
-
----
-
-# 🔄 My Development Workflow
-
-```text
-💡 Idea
-   ↓
-📋 Plan
-   ↓
-🏗️ Design
-   ↓
-💻 Build
-   ↓
-🧪 Test
-   ↓
-🔍 Refactor
-   ↓
-🚀 Deploy
-   ↓
-📈 Improve
-```
-
----
-
-# 🎯 Goals
-
-## Short Term
-
-- 📚 Strengthen my knowledge of Laravel
-- ⚛️ Improve my React & Next.js skills
-- 🧠 Understand software architecture more deeply
-- 🧪 Improve testing practices
-- 🐳 Become more comfortable with Docker
-
-## Long Term
-
-- 🚀 Build production-ready applications
-- 🏗️ Become a stronger Full-Stack Developer
-- 🌍 Contribute to open-source projects
-- 💼 Work on challenging real-world products
-- 🧠 Keep learning and improving as a developer
-
----
-
 # 📊 GitHub
 
 <p align="center">
@@ -220,19 +101,6 @@ I'm especially interested in code that is:
     alt="GitHub Contribution Snake"
   />
 </p>
-
----
-
-# 🌱 Beyond Code
-
-When I'm not coding, I enjoy:
-
-- 🏔️ Mountains
-- 🌊 The sea
-- 🍳 Cooking
-- 📚 Reading
-- 🎮 Video games
-- 💡 Learning new things
 
 ---
 
