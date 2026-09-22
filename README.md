@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Mel
 
-### Full-Stack Developer
+### Full-Stack Developer | PHP · Laravel · React
 
-I'm a Full-Stack Developer.
+I'm a Full-Stack Developer focused on building web applications with
+**PHP & Laravel** on the backend and **React** on the frontend.
 
-My main focus is **PHP & Laravel** on the backend and **React & Next.js** on the frontend.
-
+I enjoy understanding how things work under the hood, building well-structured
+applications and continuously improving my development skills.
 
 ---
 
@@ -13,11 +14,11 @@ My main focus is **PHP & Laravel** on the backend and **React & Next.js** on the
 
 - 💻 Full-Stack Developer
 - 🐘 Focused on PHP & Laravel
-- ⚛️ Building applications with React & Next.js
+- ⚛️ Building interactive applications with React
+- 🔌 Developing REST APIs and backend architectures
 - 🧠 Interested in software architecture and design patterns
-- 🏗️ Passionate about building well-structured applications
-- 🧪 Learning more about testing and code quality
-- 🚀 Always working on new projects and ideas
+- 🧪 Improving my knowledge of testing and code quality
+- 🚀 Building projects to learn and experiment with new technologies
 - 📚 Constantly learning and improving
 
 ---
@@ -40,7 +41,7 @@ My main focus is **PHP & Laravel** on the backend and **React & Next.js** on the
   <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
 </p>
 
-**PHP · Laravel · Java · Node.js**
+**PHP · Laravel · Livewire · Java · Node.js**
 
 ---
 
@@ -50,31 +51,95 @@ My main focus is **PHP & Laravel** on the backend and **React & Next.js** on the
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-**MySQL · PostgreSQL · MongoDB**
+**MySQL · PostgreSQL · MongoDB · SQLite**
 
 ---
 
 ## 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,vite" />
 </p>
 
-**Git · GitHub · Docker · Postman · Vercel · VS Code**
+**Git · GitHub · Docker · Postman · Vercel · VS Code · Vite**
+
+---
+
+## 🧪 Testing & API
+
+**Pest · PHPUnit · REST API · Scribe**
 
 ---
 
 # 🚀 Featured Projects
 
-## ⚔️ Battle Odyssey
+## 👻 To Do Ghost
 
-A full-stack RPG battle system built to explore backend architecture, API development, authentication, business logic and database design.
+> **Tasks Made Easy To Disappear**
 
-### Stack
+A task management web application developed from scratch using **PHP**
+following an **MVC architecture**.
+
+### Tech Stack
+
+`PHP` `MVC` `HTML` `CSS` `JavaScript`
+
+🔗 **[View Repository](https://github.com/M3lgone/to-do-ghost)**
+
+---
+
+## ⚔️ Battle Odyssey — Livewire
+
+A turn-based battle game developed with **Laravel and Livewire**,
+focused on interactive components, game logic and state management.
+
+### Tech Stack
+
+`PHP` `Laravel` `Livewire` `MySQL`
+
+🔗 **[View Repository](https://github.com/M3lgone/battle-odissey)**
+
+---
+
+## 🔌 Battle Odyssey — API
+
+A decoupled **REST API** version of Battle Odyssey, designed to handle
+authentication, users, characters, abilities, matches and combat logic.
+
+### Tech Stack
 
 `PHP` `Laravel` `MySQL` `REST API`
 
-🔗 **[View Repository](#)**
+### Highlights
+
+- Authentication and role management
+- Request validation
+- API documentation
+- Database persistence
+- Separation of responsibilities
+
+🔗 **[View Repository](https://github.com/M3lgone/battle-odyssey-api)**
+
+---
+
+## ⚛️ Battle Odyssey — Frontend
+
+The frontend of Battle Odyssey built with **React**, connected to the
+Laravel REST API.
+
+### Tech Stack
+
+`React` `JavaScript` `REST API` `Vite` `Tailwind CSS`
+
+### Highlights
+
+- Interactive game interface
+- Reusable React components
+- Character movement
+- Combat animations
+- Dynamic game state updates
+
+🔗 **[View Repository](https://github.com/M3lgone/battle-odyssey-front)**
 
 ---
 
@@ -82,23 +147,12 @@ A full-stack RPG battle system built to explore backend architecture, API develo
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=M3lgone&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3lgone&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-  />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
   />
 </p>
 
@@ -114,15 +168,15 @@ A full-stack RPG battle system built to explore backend architecture, API develo
   />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ismael-gonzalez-nestal/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Ismael_Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
 
-<a href="YOUR_CV_URL">
+<a href="mailto:ismaelgn89@gmail.com">
   <img
-    src="https://img.shields.io/badge/CV-Download-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
 
