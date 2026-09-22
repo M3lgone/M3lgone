@@ -143,21 +143,6 @@ Laravel REST API.
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=M3lgone&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3lgone&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
